@@ -1,0 +1,14 @@
+0 membership_project
+1 membership_member
+2 appsetting_membership
+3 appenv_appsetting
+4 member_membermetadata
+5 project_member
+6 project_progressinfo
+7 item_member
+8 svnbranch_project
+9 svnrevision_project
+10 svnrevision_item
+11 item_project
+12 svnrevision_svnbranch
+13 svnrevision_member
